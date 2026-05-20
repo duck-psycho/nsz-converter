@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" height="200" src="./logo.png">
+  <img width="200" height="200" src="./images/logo.png">
 </p>
 
 # NSZ Converter
