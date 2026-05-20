@@ -37,3 +37,5 @@ This application does not include, provide, or explain how to obtain `prod.keys`
 
 The project is intended for developers, research, and compatibility testing only.
 Users are solely responsible for ensuring that their use of this software complies with applicable laws and the rights of content owners.
+
+That is precisely why the app is not distributed through Google Play, is not monetized, and does not contain ads.
