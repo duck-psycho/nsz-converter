@@ -7,6 +7,8 @@ If you have any issues or want to suggest a new feature, please create an [issue
 
 You can download the latest version of the application in the "[Releases](https://github.com/duck-psycho/nsz-converter/releases)" section.
 
+The project is implemented in Kotlin with no dependencies, only a C++ dependency for Zstandard decompression. That’s why the application file is so lightweight.
+
 ## Screenshots
 
 <img width="400" src="./images/screenshot.jpg">
