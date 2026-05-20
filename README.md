@@ -1,13 +1,13 @@
-<p align="center">
-  <img width="200" height="200" src="./images/logo.png">
-</p>
-
 # NSZ Converter
 
 Android application for converting NSZ files to NSP format. Its main purpose is to help NSZ files work in emulators that cannot open them directly.
 It supports Android 8.0 and above and only requires access to a single directory to save the resulting NSP file.
 
 If you have any issues or want to suggest a new feature, please create an [issue](https://github.com/duck-psycho/nsz-converter/issues/new).
+
+## Screenshots
+
+<img width="400" src="./images/screenshot.jpg">
 
 ## Support the developer
 
