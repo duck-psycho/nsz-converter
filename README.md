@@ -13,7 +13,7 @@ If you have any issues or want to suggest a new feature, please create an [issue
 
 If you find the app useful, you can support the developer with a donation:
 
-Boosty: [<a href="">https://boosty.to/duckpsycho/donate</a>](https://boosty.to/duckpsycho/donate)
+Boosty: https://boosty.to/duckpsycho/donate
 
 BTC (Bitcoin): 178tovsfYQ8omdEPQSHAiH4jXBbBCWNacs
 
