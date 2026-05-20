@@ -5,6 +5,8 @@ It supports Android 8.0 and above and only requires access to a single directory
 
 If you have any issues or want to suggest a new feature, please create an [issue](https://github.com/duck-psycho/nsz-converter/issues/new).
 
+You can download the latest version of the application in the "[Releases](https://github.com/duck-psycho/nsz-converter/releases)" section.
+
 ## Screenshots
 
 <img width="400" src="./images/screenshot.jpg">
