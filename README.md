@@ -3,11 +3,11 @@
 Android application for converting NSZ files to NSP format. Its main purpose is to help NSZ files work in emulators that cannot open them directly.
 It supports Android 8.0 and above and only requires access to a single directory to save the resulting NSP file.
 
-If you have any issues or want to suggest a new feature, please create an [issue](https://github.com/duck-psycho/nsz-converter/issues/new).
+The project is implemented in Kotlin with no dependencies, only a C++ dependency for Zstandard decompression. That’s why the application file is so lightweight.
 
 You can download the latest version of the application in the "[Releases](https://github.com/duck-psycho/nsz-converter/releases)" section.
 
-The project is implemented in Kotlin with no dependencies, only a C++ dependency for Zstandard decompression. That’s why the application file is so lightweight.
+If you have any issues or want to suggest a new feature, please create an [issue](https://github.com/duck-psycho/nsz-converter/issues/new).
 
 ## Screenshots
 
