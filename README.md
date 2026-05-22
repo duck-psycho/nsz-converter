@@ -37,7 +37,7 @@ BNB: 0xF7556e3969e520A677e91E2bFb90EA88bD57EaD9
 
 The author does not support or encourage piracy in any form.
 
-This application does not include, provide, or explain how to obtain `prod.keys`, game dumps, firmware files, or any other copyrighted materials.
+This application does not include, provide, or explain how to obtain game dumps, firmware files, or any other copyrighted materials.
 
 The project is intended for developers, research, and compatibility testing only.
 Users are solely responsible for ensuring that their use of this software complies with applicable laws and the rights of content owners.
