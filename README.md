@@ -11,7 +11,8 @@ If you have any issues or want to suggest a new feature, please create an [issue
 
 ## Screenshots
 
-<img width="400" src="./images/screenshot.jpg">
+<img width="400" src="./images/screenshot1.jpg">
+<img width="400" src="./images/screenshot2.jpg">
 
 ## Support the developer
 
