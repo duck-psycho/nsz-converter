@@ -11,8 +11,10 @@ If you have any issues or want to suggest a new feature, please create an [issue
 
 ## Screenshots
 
-<img width="400" src="./images/screenshot1.jpg">
-<img width="400" src="./images/screenshot2.jpg">
+<p>
+  <img width="49%" src="./images/screenshot1.jpg" alt="NSZ Converter screenshot 1">
+  <img width="49%" src="./images/screenshot2.jpg" alt="NSZ Converter screenshot 2">
+</p>
 
 ## Support the developer
 
